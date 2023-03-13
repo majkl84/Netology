@@ -1,7 +1,5 @@
-
 class Student:
     student_list = []
-
     def __init__(self, name, surname, gender):
         self.name = name
         self.surname = surname
