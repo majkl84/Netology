@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce474942-7a00-4ed1-b890-19decb32892b" name="Changes" comment="add folder">
-      <change afterPath="$PROJECT_DIR$/OOP Inheritance, encapsulation and polymorphism/arhiv.py" afterDir="false" />
+    <list default="true" id="ce474942-7a00-4ed1-b890-19decb32892b" name="Changes" comment="Проработка ДЗ">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP Inheritance, encapsulation and polymorphism/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP Inheritance, encapsulation and polymorphism/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opening and reading a file, writing to a file/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Opening and reading a file, writing to a file/1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678448627567</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Проработка ДЗ">
+      <created>1678705036184</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678705036184</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,19 +147,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -164,7 +177,8 @@
     <MESSAGE value="OOP" />
     <MESSAGE value="OOP ADD" />
     <MESSAGE value="add folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="add folder" />
+    <MESSAGE value="Проработка ДЗ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Проработка ДЗ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
